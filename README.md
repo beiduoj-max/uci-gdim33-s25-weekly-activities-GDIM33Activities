@@ -11,8 +11,8 @@
 
 
 ### Activity 2
-[Google Paint2](<img width="1024" height="566" alt="image" src="https://github.com/user-attachments/assets/4fa0c466-1578-43d8-abb9-8141649fdcb2" />
-)
+<img width="1024" height="566" alt="image" src="https://github.com/user-attachments/assets/cc249cb5-abac-4998-96aa-c28d15058f6c" />
+
 
 
 ## W2
