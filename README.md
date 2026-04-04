@@ -11,7 +11,8 @@
 
 
 ### Activity 2
-[Google Paint2](https://docs.google.com/drawings/d/122QOKK0hZIUno_Q0jJ_vcVixD7VN3SM41nLzGfHJDic/edit)
+[Google Paint2](<img width="1024" height="566" alt="image" src="https://github.com/user-attachments/assets/4fa0c466-1578-43d8-abb9-8141649fdcb2" />
+)
 
 
 ## W2
